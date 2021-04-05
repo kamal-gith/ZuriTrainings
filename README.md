@@ -1,0 +1,2 @@
+# ZuriTrainings
+Projects execcuted
